@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>org.nuxeo.ecm.platform</groupId>
+    <artifactId>nuxeo-features-parent</artifactId>
+    <version>5.7-SNAPSHOT</version>
+  </parent>
+
+  <groupId>org.nuxeo.ecm.platform.ui.web.component.editor</groupId>
+  <artifactId>nuxeo-codemirror</artifactId>
+  <name>nuxeo-codemirror</name>
+
+</project>
